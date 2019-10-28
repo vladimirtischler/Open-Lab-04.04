@@ -4,7 +4,7 @@
 1. Clone this repository to your GitHub account.
 2. Open solution file in Visual Studio.
 3. Open file `PhoneNumbers.cs`.
-4. Implement method `FormatPhoneNumber(int[] numbers)` that takes an array of 10 integers and formats them into a phone number.
+4. Implement the method `FormatPhoneNumber(int[] numbers)` that takes an array of 10 integers and formats them into a phone number.
 5. Run with `CTRL+F5` to test it.
 6. If all tests are passed, commit & sync your repository.
 7. Send a link to your repository for Lab Master (in #slack) to check it.
