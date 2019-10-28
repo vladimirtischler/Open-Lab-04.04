@@ -1,7 +1,7 @@
 # Open-Lab-04.04
 (15 XP) A function that formats an integer array into a phone number.
 
-1. Clone this repository to your GitHub account.
+1. Fork this repository to your GitHub account.
 2. Open solution file in Visual Studio.
 3. Open file `PhoneNumbers.cs`.
 4. Implement the method `FormatPhoneNumber(int[] numbers)` that takes an array of 10 integers and formats them into a phone number.
